@@ -1,0 +1,12 @@
+.width100{
+    width:100%;
+}
+
+header div{
+    display:flex;
+    justify-content: space-between;
+}
+
+button{
+    margin-top: 10px;
+}
